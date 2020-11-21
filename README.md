@@ -12,3 +12,11 @@
 
 
 *I have not used markdown in a long time since I took IT 2040*
+
+
+ Place | Time |
+| ------ | ----------- |
+| 7.11   | slushies |
+| 24.7 | forever |
+| 15.90   | gas |
+
