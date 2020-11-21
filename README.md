@@ -8,3 +8,7 @@
 
 
 ~Corona is lame~
+
+
+
+*I have not used markdown in a long time since I took IT 2040*
